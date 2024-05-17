@@ -82,5 +82,10 @@ public class Main {
            (2 pangkat 32 -1)
         min     total      max
         di ambil 1 bit buat tanda (-) jadi min dan max nya itu total 2 pangkat 31 -1
+
+
+        kenapa tipe datanya itu primitive karna value nya itu fix
+
+        String itu bukan primitive tapi high level (karena ukurannya bisa berubah")
     */
 }
